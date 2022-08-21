@@ -1,4 +1,7 @@
 /* Result page styling: */
+body {
+    background-color: red;
+}
 h1 {
     margin-left: 45%;
     margin-top: 10px;
